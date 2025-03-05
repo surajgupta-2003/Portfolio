@@ -183,7 +183,7 @@ nav li:hover {
   flex-direction: column;
   justify-content: center;
   margin-top: 8rem;
-  background-image: url(11.jpg);
+  background-image: url(Image/11.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -208,7 +208,7 @@ nav li:hover {
 }
 
 #page1 .right {
-  background-image: url(suraj\ image.png);
+  background-image: url(Image/suraj\ image.png);
   background-size: cover;
   background-position: top;
   border-radius: 50%;
@@ -249,7 +249,7 @@ nav li:hover {
 #page2 {
   /* height: 75vh; */
   background-color: var(--primary-color-dark);
-  background-image: url(w3.jpg);
+  background-image: url(Image/w3.jpg);
   background-position: center;
   background-repeat: none;
   background-size: cover;
@@ -325,7 +325,7 @@ nav li:hover {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-image: url(w7.webp);
+  background-image: url(Image/w7.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -347,7 +347,7 @@ nav li:hover {
 /* scrolling images end */
 
 #page4{
-  background-image: url(w-5.jpg);
+  background-image: url(Image/w-5.jpg);
 }
 
 iframe{
@@ -427,7 +427,7 @@ iframe{
   padding: 2rem;
   text-align: center;
   width: 80%;
-  background-image: url(bg-2.jpg);
+  background-image: url(Image/bg-2.jpg);
   background-size: cover;
   background-position: center;
   border-bottom-left-radius: 50%;
@@ -464,7 +464,7 @@ iframe{
 .cardup {
   height: 22%;
   width: 75%;
-  background-image: url(giphy\ \(2\).gif);
+  background-image: url(Image/giphy\ \(2\).gif);
   background-size: cover;
   background-position: center;
   border-radius: 2rem;
@@ -499,7 +499,7 @@ iframe{
 /* Footer starts ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 footer {
   /* height: 35vh; */
-  background-image: url(w3.jpg);
+  background-image: url(Image/w3.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
@@ -521,7 +521,7 @@ footer > #last {
 }
 
 footer .left {
-  background-image: url(suraj\ image.png);
+  background-image: url(Image/suraj\ image.png);
   background-position: top;
   background-size: cover;
   height: 18vh;
@@ -553,7 +553,7 @@ footer .right {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(w7.webp);
+  background-image: url(Image/w7.webp);
   background-position: right;
   background-size: cover;
   border-radius: 2rem;
@@ -623,7 +623,7 @@ footer .right li:hover {
     width: 40vw;
   }
   #page3{
-    background-image: url(bg.png);
+    background-image: url(Image/bg.png);
     background-position: center;
     background-repeat: repeat-y;
     background-size: contain;
