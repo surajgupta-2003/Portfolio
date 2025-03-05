@@ -37,7 +37,7 @@ Welcome to my **personal portfolio website**! This project showcases my **skills
 3. Customize as needed!
 
 ## 📞 Connect with Me
-🔗 [LinkedIn](https://linkedin.com/in/surajgupta)  
+🔗 [LinkedIn](https://www.linkedin.com/in/suraj-gupta-243230237/)  
 🔗 [GitHub](https://github.com/surajgupta-2003)  
 📧 **Email**: suraj7088439517@gmail.com  
 📍 **Location**: Gurugram, Haryana, India  
